@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "bun test sum.test.ts"
+  },
+  "type": "module"
+}
